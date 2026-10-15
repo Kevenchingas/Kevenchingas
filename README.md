@@ -25,7 +25,7 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 
 </td>
 <td width="44%" align="center" valign="top">
-<a href="https://steamcommunity.com/profiles/76561199267794694/"><img src="assets/steam-art.gif" width="82%" alt="The Abyss — panel central de Steam" /><img src="assets/steam-side.gif" width="16%" alt="The Abyss — panel lateral de Steam" /></a>
+<a href="https://steamcommunity.com/profiles/76561199267794694/"><img src="assets/steam-art.gif" width="82%" alt="The Abyss — panel central de Steam" /></a><a href="https://steamcommunity.com/profiles/76561199267794694/"><img src="assets/steam-side.gif" width="16%" alt="The Abyss — panel lateral de Steam" /></a>
 <br /><br />
 <img src="assets/crown.jpg" width="14%" alt="Corona" />
 <img src="assets/letter-k.jpg" width="14%" alt="K" />
