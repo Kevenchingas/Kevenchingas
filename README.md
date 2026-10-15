@@ -4,7 +4,7 @@
 
 # Kevin Hernández <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="28" alt="Saludo animado" />
 
-**Ingeniería en Sistemas Computacionales**  
+<img src="assets/education.svg" width="100%" alt="Ingeniería en Sistemas Computacionales — Instituto Tecnológico de Ocotlán, Jalisco · Egresado" />  
 **Nacionalidad:** <img src="https://flagcdn.com/w40/mx.png" width="22" alt="🇲🇽 México" /> <img src="https://flagcdn.com/w40/us.png" width="22" alt="🇺🇸 Estados Unidos" />
 
 <img src="assets/profile-accent.svg" width="280" alt="Aprender, crear, jugar" />
@@ -37,17 +37,17 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 <table>
 <tr><th>Desarrollo</th><th>Bases de datos</th><th>Herramientas</th></tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=py,html,css,js,ts,java,react,nextjs,nodejs,nestjs,flutter&theme=dark&perline=11" width="330" alt="Python, HTML, CSS, JavaScript, TypeScript, Java, React, Next.js, Node.js, NestJS y Flutter" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=py,html,css,js,ts,java,react,nodejs,flutter&theme=dark&perline=9" width="270" alt="Python, HTML, CSS, JavaScript, TypeScript, Java, React, Node.js y Flutter" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase&theme=dark&perline=4" width="120" alt="MySQL, MongoDB, Supabase y Firebase" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,jest&theme=dark&perline=6" width="180" alt="Git, GitHub, VS Code, Figma, Arduino y Jest" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="28" alt="Storybook" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino&theme=dark&perline=5" width="150" alt="Git, GitHub, VS Code, Figma y Arduino" /></td>
 </tr>
 </table>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="25" alt="Estrellas animadas" /> GitHub activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kevenchingas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0,101827,211832&title_color=c4b5fd&text_color=cbd5e1&icon_color=38bdf8" width="49%" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevenchingas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0,101827,211832&title_color=c4b5fd&text_color=cbd5e1&icon_color=38bdf8" width="42%" alt="Lenguajes más utilizados" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kevenchingas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=c4b5fd&text_color=cbd5e1&icon_color=38bdf8" width="49%" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevenchingas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=cbd5e1&icon_color=38bdf8" width="42%" alt="Lenguajes más utilizados" />
 </p>
 
 <picture>
@@ -55,6 +55,10 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kevenchingas/Kevenchingas/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="Pac-Man animado sobre mi calendario de contribuciones" src="https://raw.githubusercontent.com/Kevenchingas/Kevenchingas/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
 </picture>
+
+## 🎓 Mis cursos
+
+<!-- Añadir aquí los cursos y certificados confirmados por Kevin. -->
 
 ## 🌐 Redes y contacto
 
