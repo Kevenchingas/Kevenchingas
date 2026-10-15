@@ -12,7 +12,11 @@
 
 ## About me
 
-Soy **Kevin**, egresado de **Ingeniería en Sistemas Computacionales del Instituto Tecnológico de Ocotlán, Jalisco**. Me interesan los sistemas, el desarrollo de software y las bases de datos.
+Soy **Kevin**, egresado de:
+
+<img src="assets/degree-title.svg" width="100%" alt="Ingeniería en Sistemas Computacionales del Instituto Tecnológico de Ocotlán, Jalisco." />
+
+Me interesan los sistemas, el desarrollo de software y las bases de datos.
 
 Aprendo rápido, soy amable y responsable, y disfruto resolver problemas y seguir creciendo profesionalmente.
 
@@ -40,7 +44,7 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=py,html,css,js,ts,java,react,nodejs,flutter&theme=dark&perline=9" width="270" alt="Python, HTML, CSS, JavaScript, TypeScript, Java, React, Node.js y Flutter" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase&theme=dark&perline=4" width="120" alt="MySQL, MongoDB, Supabase y Firebase" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino&theme=dark&perline=5" width="150" alt="Git, GitHub, VS Code, Figma y Arduino" /><br /><img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino&theme=dark&perline=5" width="150" alt="Git, GitHub, VS Code, Figma y Arduino" /> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/packet-tracer.svg" width="28" height="28" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" /></td>
 </tr>
 </table>
 
