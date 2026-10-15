@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner animado" width="100%" />
-</p>
-
 <table>
 <tr>
 <td width="56%" valign="top">
@@ -49,27 +45,19 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 </tr>
 </table>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="25" alt="Fuego animado" /> GitHub activity
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="25" alt="Estrellas animadas" /> GitHub activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kevenchingas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevenchingas&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Lenguajes más utilizados" />
-</p>
+<table>
+<tr>
+<td width="33%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kevenchingas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="250" height="120" alt="Estadísticas de GitHub" /></td>
+<td width="33%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevenchingas&layout=compact&theme=tokyonight&hide_border=true" width="250" height="120" alt="Lenguajes más utilizados" /></td>
+<td width="33%" align="center"><img src="https://streak-stats.demolab.com?user=Kevenchingas&theme=tokyonight&hide_border=true" width="250" height="120" alt="Contribuciones y racha actual" /></td>
+</tr>
+</table>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Kevenchingas&theme=tokyonight&hide_border=true" width="360" alt="Contribuciones y racha actual" />
-</p>
+### Días de actividad
 
-### 📅 Días de actividad
-
-<a href="https://github.com/Kevenchingas?tab=overview"><img src="https://ghchart.rshah.org/70a5fd/Kevenchingas" width="100%" alt="Calendario de contribuciones de Kevenchingas durante el último año" /></a>
-
-<details>
-<summary>🏆 Trofeos</summary>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kevenchingas&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="95%" alt="Trofeos de GitHub" />
-</p>
-</details>
+<a href="https://github.com/Kevenchingas?tab=overview"><img src="assets/contributions.svg" width="100%" alt="Calendario de contribuciones de Kevenchingas durante el último año" /></a>
 
 ## 🌐 Redes y contacto
 
