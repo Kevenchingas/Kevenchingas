@@ -21,14 +21,14 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 
 </td>
 <td width="44%" align="center" valign="top">
-<a href="https://steamcommunity.com/profiles/76561199267794694/"><img src="assets/steam-art.png" width="250" alt="The Abyss — panel central de Steam" /><img src="assets/steam-side.png" width="49" alt="The Abyss — panel lateral de Steam" /></a>
+<a href="https://steamcommunity.com/profiles/76561199267794694/"><img src="assets/steam-art.png" width="82%" alt="The Abyss — panel central de Steam" /><img src="assets/steam-side.png" width="16%" alt="The Abyss — panel lateral de Steam" /></a>
 <br /><br />
-<img src="assets/crown.jpg" width="38" height="38" alt="Corona" />
-<img src="assets/letter-k.jpg" width="38" height="38" alt="K" />
-<img src="assets/letter-e.jpg" width="38" height="38" alt="E" />
-<img src="assets/letter-v.jpg" width="38" height="38" alt="V" />
-<img src="assets/letter-e.jpg" width="38" height="38" alt="E" />
-<img src="assets/letter-n.jpg" width="38" height="38" alt="N" />
+<img src="assets/crown.jpg" width="14%" alt="Corona" />
+<img src="assets/letter-k.jpg" width="14%" alt="K" />
+<img src="assets/letter-e.jpg" width="14%" alt="E" />
+<img src="assets/letter-v.jpg" width="14%" alt="V" />
+<img src="assets/letter-e.jpg" width="14%" alt="E" />
+<img src="assets/letter-n.jpg" width="14%" alt="N" />
 </td>
 </tr>
 </table>
