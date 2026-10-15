@@ -48,6 +48,22 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 </tr>
 </table>
 
+<!-- tallerdesk-portfolio:start -->
+## 🛠️ Proyecto destacado · TallerDesk
+
+[![TallerDesk — Gestión para talleres de motocicletas](assets/tallerdesk-banner.svg)](projects/tallerdesk/README.md)
+
+Aplicación de escritorio para **Windows** con gestión de clientes, servicios, inventario, caja y estadísticas. Desarrollada como proyecto de **Kevin · LionEdge**.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-243341?style=flat-square&logo=electron&logoColor=9FEAF9)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827)
+
+[**Conocer TallerDesk →**](projects/tallerdesk/README.md) · Presentación pública; código fuente privado.
+<!-- tallerdesk-portfolio:end -->
+
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="25" alt="Estrellas animadas" /> GitHub activity
 
 <p align="center">
