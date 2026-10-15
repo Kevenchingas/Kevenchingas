@@ -7,7 +7,8 @@
 <img src="assets/education.svg" width="100%" alt="Ingeniería en Sistemas Computacionales — Instituto Tecnológico de Ocotlán, Jalisco · Egresado" />  
 <strong>Nacionalidad:</strong> <img src="https://flagcdn.com/w40/mx.png" width="22" alt="🇲🇽 México" /> <img src="https://flagcdn.com/w40/us.png" width="22" alt="🇺🇸 Estados Unidos" />
 
-<img src="assets/profile-accent.svg" width="280" alt="Aprender, crear, jugar" />
+<br /><br />
+<img src="assets/profile-accent.svg" width="280" alt="Aprender, crear, jugar — arcoíris animado" />
 
 ## About me
 
