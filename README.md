@@ -52,6 +52,12 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 
 <a href="https://github.com/Kevenchingas?tab=overview"><img src="assets/contributions.svg" width="100%" alt="Calendario de contribuciones de Kevenchingas durante el último año" /></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kevenchingas/Kevenchingas/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kevenchingas/Kevenchingas/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="Pac-Man animado sobre mi calendario de contribuciones" src="https://raw.githubusercontent.com/Kevenchingas/Kevenchingas/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
+</picture>
+
 ## 🌐 Redes y contacto
 
 [![Steam](https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199267794694/)
