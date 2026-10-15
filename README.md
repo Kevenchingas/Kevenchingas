@@ -1,11 +1,15 @@
+<p align="center">
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner animado" width="100%" />
+</p>
+
 <table>
 <tr>
 <td width="56%" valign="top">
 
-# Kevin Hernández
+# Kevin Hernández <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="28" alt="Saludo animado" />
 
 **Ingeniería en Sistemas Computacionales**  
-🇲🇽 🇺🇸 Ciudadano mexicano y estadounidense
+**Nacionalidad:** 🇲🇽 🇺🇸
 
 ## About me
 
@@ -15,9 +19,6 @@ Aprendo rápido, soy amable y responsable, y disfruto resolver problemas y segui
 
 También disfruto los videojuegos y crear soluciones útiles con tecnología.
 
-[![Steam](https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199267794694/)
-[![Kick](https://img.shields.io/badge/Kick-53FC18?style=flat-square&logo=kick&logoColor=black)](https://kick.com/kevenchingas)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/kevenchingas)
 
 </td>
 <td width="44%" align="center" valign="top">
@@ -33,51 +34,49 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 </tr>
 </table>
 
-## Tech stack
-
-### Languages & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=py,html,js,react&theme=dark" alt="Python, HTML, JavaScript y React" />
-</p>
-
-### Databases & Services
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase&theme=dark" alt="MySQL, MongoDB, Supabase y Firebase" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git, GitHub, VS Code y Figma" />
-</p>
-
----
-
-## GitHub
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="25" alt="Cohete animado" /> Tech stack
 
 <table>
 <tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevenchingas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" />
-</td>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevenchingas&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-</td>
+<th>Desarrollo</th>
+<th>Bases de datos</th>
+<th>Herramientas</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=py,html,js,react&theme=dark" width="145" alt="Python, HTML, JavaScript y React" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase&theme=dark" width="145" alt="MySQL, MongoDB, Supabase y Firebase" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" width="145" alt="Git, GitHub, VS Code y Figma" /></td>
 </tr>
 </table>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Kevenchingas&theme=tokyonight&hide_border=true" width="100%" />
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="25" alt="Fuego animado" /> GitHub activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kevenchingas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevenchingas&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Lenguajes más utilizados" />
 </p>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Kevenchingas&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Kevenchingas&theme=tokyonight&hide_border=true" width="360" alt="Contribuciones y racha actual" />
 </p>
 
----
+### 📅 Días de actividad
 
-## Contact
+<a href="https://github.com/Kevenchingas?tab=overview"><img src="https://ghchart.rshah.org/70a5fd/Kevenchingas" width="100%" alt="Calendario de contribuciones de Kevenchingas durante el último año" /></a>
 
+<details>
+<summary>🏆 Trofeos</summary>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kevenchingas&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="95%" alt="Trofeos de GitHub" />
+</p>
+</details>
+
+## 🌐 Redes y contacto
+
+[![Steam](https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199267794694/)
+[![Kick](https://img.shields.io/badge/Kick-53FC18?style=flat-square&logo=kick&logoColor=black)](https://kick.com/kevenchingas)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/kevenchingas)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kevenchingas/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:keventinoco15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-hernandez-29723929a/)
-**Discord:** @kevenchingas
+![Discord: @kevenchingas](https://img.shields.io/badge/Discord-%40kevenchingas-5865F2?style=flat-square&logo=discord&logoColor=white)
