@@ -45,13 +45,21 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 </tr>
 </table>
 
+<table>
+<tr><th>Web y backend</th><th>Pruebas y componentes</th><th>Más herramientas</th></tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="nextjs" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="28" alt="nestjs" /></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="28" alt="storybook" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="28" alt="jest" /></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="28" alt="arduino" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="28" alt="flutter" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="java" /></td>
+</tr>
+</table>
+
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="25" alt="Estrellas animadas" /> GitHub activity
 
 <table>
 <tr>
-<td width="33%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kevenchingas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="250" height="120" alt="Estadísticas de GitHub" /></td>
-<td width="33%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevenchingas&layout=compact&theme=tokyonight&hide_border=true" width="250" height="120" alt="Lenguajes más utilizados" /></td>
-<td width="33%" align="center"><img src="https://streak-stats.demolab.com?user=Kevenchingas&theme=tokyonight&hide_border=true" width="250" height="120" alt="Contribuciones y racha actual" /></td>
+<td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kevenchingas&show_icons=true&theme=dark&hide_border=false&rank_icon=github" width="250" height="120" alt="Estadísticas de GitHub" /></td>
+<td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevenchingas&layout=compact&theme=dark&hide_border=false" width="250" height="120" alt="Lenguajes más utilizados" /></td>
 </tr>
 </table>
 
@@ -59,7 +67,13 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 
 <a href="https://github.com/Kevenchingas?tab=overview"><img src="assets/contributions.svg" width="100%" alt="Calendario de contribuciones de Kevenchingas durante el último año" /></a>
 
+## 👾 Arcade
+
+<img src="assets/arcade.svg" width="100%" alt="Animación arcade decorativa de Pac-Man" />
+
 ## 🌐 Redes y contacto
+
+<p><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="26" alt="discord" /> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="30" height="26" alt="facebook" /> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="26" alt="gmail" /> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="26" alt="instagram" /> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="26" alt="linkedin" /> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="30" height="26" alt="paypal" /> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="30" height="26" alt="twitch" /> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="30" height="26" alt="youtube" /> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="30" height="26" alt="whatsapp" /></p>
 
 [![Steam](https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199267794694/)
 [![Kick](https://img.shields.io/badge/Kick-53FC18?style=flat-square&logo=kick&logoColor=black)](https://kick.com/kevenchingas)
