@@ -9,7 +9,7 @@
 # Kevin Hernández <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="28" alt="Saludo animado" />
 
 **Ingeniería en Sistemas Computacionales**  
-**Nacionalidad:** 🇲🇽 🇺🇸
+**Nacionalidad:** <img src="https://flagcdn.com/w40/mx.png" width="22" alt="🇲🇽 México" /> <img src="https://flagcdn.com/w40/us.png" width="22" alt="🇺🇸 Estados Unidos" />
 
 ## About me
 
