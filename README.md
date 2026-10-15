@@ -39,7 +39,7 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=py,html,css,js,ts,java,react,nodejs,flutter&theme=dark&perline=9" width="270" alt="Python, HTML, CSS, JavaScript, TypeScript, Java, React, Node.js y Flutter" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase&theme=dark&perline=4" width="120" alt="MySQL, MongoDB, Supabase y Firebase" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino&theme=dark&perline=5" width="150" alt="Git, GitHub, VS Code, Figma y Arduino" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino&theme=dark&perline=5" width="150" alt="Git, GitHub, VS Code, Figma y Arduino" /><br /><img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" /></td>
 </tr>
 </table>
 
@@ -58,7 +58,37 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 
 ## 🎓 Mis cursos
 
-<!-- Añadir aquí los cursos y certificados confirmados por Kevin. -->
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://web.certificate.wfglobal.org/es/certificate?certificateId=6a08b7bc8b44bd81aa736f58"><img src="assets/courses/ignite-mexico.png" height="130" alt="Ignite México" /></a>
+<br /><strong>Ignite México</strong><br /><sub>Wadhwani Foundation · 42 horas</sub><br /><br />
+<a href="https://web.certificate.wfglobal.org/es/certificate?certificateId=6a08b7bc8b44bd81aa736f58"><img src="https://img.shields.io/badge/Ver_certificado-F97316?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Ver certificado de Ignite México" /></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://www.credly.com/badges/1ecc69ba-af70-4c97-b611-295a5f0d697d/linked_in_profile"><img src="assets/courses/network-technician.png" height="130" alt="Network Technician Career Path" /></a>
+<br /><strong>Network Technician Career Path</strong><br /><sub>Cisco Networking Academy</sub><br /><br />
+<a href="https://www.credly.com/badges/1ecc69ba-af70-4c97-b611-295a5f0d697d/linked_in_profile"><img src="https://img.shields.io/badge/Ver_certificado-00BCEB?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Ver certificado de Network Technician Career Path" /></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://www.credly.com/badges/e3d7941d-3a0b-4d9a-942e-b7cb5a31eef2/linked_in_profile"><img src="assets/courses/web-development.png" height="130" alt="Web Development Fundamentals" /></a>
+<br /><strong>Web Development Fundamentals</strong><br /><sub>IBM SkillsBuild</sub><br /><br />
+<a href="https://www.credly.com/badges/e3d7941d-3a0b-4d9a-942e-b7cb5a31eef2/linked_in_profile"><img src="https://img.shields.io/badge/Ver_certificado-E879A7?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Ver certificado de Web Development Fundamentals" /></a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://www.credly.com/badges/7cf9c0e5-a354-4272-9bb3-0b401c7ea449/linked_in_profile"><img src="assets/courses/ai-literacy.png" height="130" alt="AI Literacy" /></a>
+<br /><strong>AI Literacy</strong><br /><sub>IBM SkillsBuild</sub><br /><br />
+<a href="https://www.credly.com/badges/7cf9c0e5-a354-4272-9bb3-0b401c7ea449/linked_in_profile"><img src="https://img.shields.io/badge/Ver_certificado-14B8A6?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Ver certificado de AI Literacy" /></a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://capacitateparaelempleo.org/verifica/0f2c6a05-0c04-4aa5-831a-b9cfd1683c32/fafba92d-f42c-46db-bef1-d9d20179a8ac"><img src="assets/courses/introduccion-programacion.png" height="130" alt="Introducción a la programación" /></a>
+<br /><strong>Introducción a la programación</strong><br /><sub>Capacítate para el Empleo · 28 horas</sub><br /><br />
+<a href="https://capacitateparaelempleo.org/verifica/0f2c6a05-0c04-4aa5-831a-b9cfd1683c32/fafba92d-f42c-46db-bef1-d9d20179a8ac"><img src="https://img.shields.io/badge/Ver_certificado-0EA5A4?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Ver certificado de Introducción a la programación" /></a>
+</td>
+</tr>
+</table>
 
 ## 🌐 Redes y contacto
 
