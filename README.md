@@ -1,54 +1,53 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=KEVENCHINGAS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Systems%20Engineer%20%7C%20Developer&descAlignY=70&descSize=16" width="100%" alt="header"/>
+<table>
+<tr>
+<td width="56%" valign="top">
 
 # Kevin Hernández
 
 **Ingeniería en Sistemas Computacionales**  
 🇲🇽 🇺🇸 Ciudadano mexicano y estadounidense
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kevenchingas/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:keventinoco15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-hernandez-29723929a/)
+## About me
+
+Soy **Kevin**, egresado de Ingeniería en Sistemas Computacionales. Me interesan los sistemas, el desarrollo de software y las bases de datos.
+
+Aprendo rápido, soy amable y responsable, y disfruto resolver problemas y seguir creciendo profesionalmente.
+
+También disfruto los videojuegos y crear soluciones útiles con tecnología.
+
 [![Steam](https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199267794694/)
 [![Kick](https://img.shields.io/badge/Kick-53FC18?style=flat-square&logo=kick&logoColor=black)](https://kick.com/kevenchingas)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/kevenchingas)
 
-</div>
-
----
-
-## About me
-
-Soy **Kevin**, egresado de **Ingeniería en Sistemas Computacionales**.  
-Me interesa el área de **sistemas**, el desarrollo de software y las bases de datos.
-
-Me considero una persona:
-
-- de aprendizaje rápido  
-- amable y responsable  
-- adaptable y enfocada en resolver problemas  
-- con interés en seguir creciendo profesionalmente  
-
-También disfruto los videojuegos y el uso de la tecnología como herramienta para crear soluciones útiles.
-
----
+</td>
+<td width="44%" align="center" valign="top">
+<a href="https://steamcommunity.com/profiles/76561199267794694/"><img src="assets/steam-art.png" width="250" alt="The Abyss — panel central de Steam" /><img src="assets/steam-side.png" width="49" alt="The Abyss — panel lateral de Steam" /></a>
+<br /><br />
+<img src="assets/crown.jpg" width="38" height="38" alt="Corona" />
+<img src="assets/letter-k.jpg" width="38" height="38" alt="K" />
+<img src="assets/letter-e.jpg" width="38" height="38" alt="E" />
+<img src="assets/letter-v.jpg" width="38" height="38" alt="V" />
+<img src="assets/letter-e.jpg" width="38" height="38" alt="E" />
+<img src="assets/letter-n.jpg" width="38" height="38" alt="N" />
+</td>
+</tr>
+</table>
 
 ## Tech stack
 
 ### Languages & Development
 <p>
-  <img src="https://skillicons.dev/icons?i=py,html,js,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,html,js,react&theme=dark" alt="Python, HTML, JavaScript y React" />
 </p>
 
 ### Databases & Services
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase&theme=dark" alt="MySQL, MongoDB, Supabase y Firebase" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git, GitHub, VS Code y Figma" />
 </p>
 
 ---
@@ -78,9 +77,7 @@ También disfruto los videojuegos y el uso de la tecnología como herramienta pa
 
 ## Contact
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevenchingas/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keventinoco15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-hernandez-29723929a/)
-![Discord](https://img.shields.io/badge/Discord-@kevenchingas-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=50&section=footer" width="100%" alt="footer"/>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kevenchingas/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:keventinoco15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-hernandez-29723929a/)
+**Discord:** @kevenchingas
