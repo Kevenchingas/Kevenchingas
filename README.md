@@ -9,7 +9,7 @@
 
 ## About me
 
-Soy **Kevin**, egresado de Ingeniería en Sistemas Computacionales. Me interesan los sistemas, el desarrollo de software y las bases de datos.
+Soy **Kevin**, egresado de **Ingeniería en Sistemas Computacionales del Instituto Tecnológico de Ocotlán, Jalisco**. Me interesan los sistemas, el desarrollo de software y las bases de datos.
 
 Aprendo rápido, soy amable y responsable, y disfruto resolver problemas y seguir creciendo profesionalmente.
 
