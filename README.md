@@ -51,14 +51,14 @@ También disfruto los videojuegos y crear soluciones útiles con tecnología.
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="25" alt="Estrellas animadas" /> GitHub activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kevenchingas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=c4b5fd&text_color=cbd5e1&icon_color=38bdf8" width="49%" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=KevinJHernandez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=c4b5fd&text_color=cbd5e1&icon_color=38bdf8" width="49%" alt="Estadísticas de GitHub" />
 <img src="assets/project-languages.svg" width="42%" alt="Lenguajes de TallerDesk: CSS 70 %, JavaScript 22.7 %, HTML 7.3 %. Actualización manual: 15 de octubre de 2026." />
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kevenchingas/Kevenchingas/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kevenchingas/Kevenchingas/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="Pac-Man animado sobre mi calendario de contribuciones" src="https://raw.githubusercontent.com/Kevenchingas/Kevenchingas/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinJHernandez/Kevenchingas/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinJHernandez/Kevenchingas/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="Pac-Man animado sobre mi calendario de contribuciones" src="https://raw.githubusercontent.com/KevinJHernandez/Kevenchingas/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
 </picture>
 
 ## 🎓 Mis cursos
